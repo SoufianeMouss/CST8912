@@ -4,10 +4,10 @@
 ![Create SQL Database Server](img/1.create-sql-database-server.png)
 
 ### SQL Database Deployment
-![SQL Database Deployment](img/2.sql-database-deployment)
+![SQL Database Deployment](img/2.sql-database-deployment.png)
 
 ### SQL Server SQL Database
-![SQL Server SQL Database](img/3.sql-server-sql-database)
+![SQL Server SQL Database](img/3.sql-server-sql-database.png)
 
 ### Query Editor
 ![Query Editor](img/4.query-editor.png)
