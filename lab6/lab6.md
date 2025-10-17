@@ -35,3 +35,8 @@
 
 ### Display Container
 ![Display Container](img/12.Display-Container.png)
+
+### Challenges
+It was a good and challenging LAB, The VM B1s was very slow and always crashing, I couldn't download Microsoft Azure Storage Explorer.
+I then deleted that VM and created B2s with Windows server 2025 and it worked smoothly.
+Thank you Professor :)
